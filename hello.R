@@ -1,4 +1,4 @@
 print("hello world!")
-plot(2)
-ggplot()
+plot(1)
 boxplot()
+ggplot()
